@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-06-17T19:58:11.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="GXng6t0aqSngQC0OC1kp" version="24.5.3" type="device">
+<mxfile host="Electron" modified="2024-06-17T20:00:03.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="5F7BjVCmgNQ9X8fBvID7" version="24.5.3" type="device">
   <diagram name="Page-1" id="N0chev_q8O6K3js9KmaO">
-    <mxGraphModel dx="2963" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1908,6 +1908,18 @@
         </mxCell>
         <mxCell id="KqL_0P1XNNQwlhk2eklX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="KqL_0P1XNNQwlhk2eklX-8" target="KqL_0P1XNNQwlhk2eklX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DzvxLAVR4Scuj9MEgUuv-5" value="" style="group;spacingRight=4;spacingLeft=4;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="440" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DzvxLAVR4Scuj9MEgUuv-6" value="" style="group" vertex="1" connectable="0" parent="DzvxLAVR4Scuj9MEgUuv-5">
+          <mxGeometry width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DzvxLAVR4Scuj9MEgUuv-7" value="&lt;b&gt;&lt;font color=&quot;#050505&quot; style=&quot;font-size: 20px;&quot;&gt;Weapon Finesse&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;spacingLeft=4;spacingRight=4;" vertex="1" parent="DzvxLAVR4Scuj9MEgUuv-6">
+          <mxGeometry width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DzvxLAVR4Scuj9MEgUuv-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTYuOTIsNUg1TDE0LDE0TDE1LDEzLjA2TTE5Ljk2LDE5LjEyTDE5LjEyLDE5Ljk2QzE4LjczLDIwLjM1IDE4LjEsMjAuMzUgMTcuNzEsMTkuOTZMMTQuNTksMTYuODRMMTEuOTEsMTkuNUwxMC41LDE4LjA5TDExLjkyLDE2LjY3TDMsNy43NVYzSDcuNzVMMTYuNjcsMTEuOTJMMTguMDksMTAuNUwxOS41LDExLjkxTDE2LjgzLDE0LjU4TDE5Ljk1LDE3LjdDMjAuMzUsMTguMSAyMC4zNSwxOC43MyAxOS45NiwxOS4xMloiLz48L3N2Zz4=;" vertex="1" parent="DzvxLAVR4Scuj9MEgUuv-6">
+          <mxGeometry x="112" y="10.90909090909091" width="12.226415094339623" height="12.226415094339623" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
